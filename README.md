@@ -1,4 +1,6 @@
 # Java_DemocratieAPP
+Just Files project
+don't forget to create a new .project on your IDE
 JAVA, SQL, JDBC School Project
 
 In an era where many actions must now be carried out in telework and where voting can become a problem to respect the rules health, there is a need for a new nationwide protocol that already exists in companies via solutions such as DémocratieApp and which can be used by any citizen to vote reliably and securely from a computer without having to go to a polling station. 
